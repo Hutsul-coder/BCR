@@ -47,7 +47,7 @@
         <item quantity="one">Зберегти %d день</item>
         <item quantity="two">Зберегти %d дні</item>
         <item quantity="few">Зберегти %d дні</item>
-        <item quantity="many">Зберегти %d дні</item>
+        <item quantity="many">Зберегти %d днів</item>
         <item quantity="other">Зберегти %d днів</item>
     </plurals>
     <string name="retention_unusable">Збереження файлів вимкнено, оскільки поточний шаблон імені файлу несумісний із цією функцією.</string>
@@ -101,12 +101,12 @@
     <string name="notification_recording_on_hold">Дзвінок на утриманні</string>
     <string name="notification_recording_failed">Не вдалося записати дзвінок</string>
     <string name="notification_recording_succeeded">Дзвінок успішно записаний</string>
-    <string name="notification_message_delete_at_end">Після завершення дзвінка запис буде видалено. Натисніть «Відновити», щоб зберегти запис.</string>
+    <string name="notification_message_delete_at_end">Після завершення дзвінка запис буде видалено. Натисніть «Зберегти», щоб зберегти запис.</string>
     <string name="notification_internal_android_error">Помилка запису у внутрішньому компоненті Android (%s). Цей пристрій або мікропрограма може не підтримувати запис викликів.</string>
     <string name="notification_action_open">Відкрити</string>
     <string name="notification_action_share">Поділитися</string>
     <string name="notification_action_delete">Видалити</string>
-    <string name="notification_action_restore">Відновити</string>
+    <string name="notification_action_restore">Зберегти</string>
     <string name="notification_action_pause">Призупинити</string>
     <string name="notification_action_resume">Відновити</string>
 
